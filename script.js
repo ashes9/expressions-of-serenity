@@ -4,10 +4,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageData = [
         {
             id: 1,
-            title: 'Mountain Landscape',
-            description: 'A breathtaking view of mountains under a clear blue sky.',
-            imageUrl: 'https://images.unsplash.com/photo-1615485925575-b93558a25b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fG1vdW50YWlufGVufDB8fHx8MTY4MTM5OTY5Nw&ixlib=rb-4.0.3&q=80&w=400',
-            linkUrl: '#'
+            title: 'My Creator',
+            description: 'Beautiful Creator.',
+            imageUrl: 'images/creator.png',
+            linkUrl: 'https://www.instagram.com/expressions_of_serenity/'
         },
         {
             id: 2,
